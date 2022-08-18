@@ -2,8 +2,8 @@
 
 ## Problem
 
-Add missing lines of code to pass CI on GitHub Actions, without modifying or
-removing any line of code in the project.
+Make changes on the project to pass CI on GitHub Actions, without modifying or
+removing any lines of code.
 
 > **Warning**\
 > You may not ask someone for help or refer any forks of this repository.
