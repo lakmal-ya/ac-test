@@ -3,7 +3,7 @@
 ## Problem
 
 Make changes on the project to pass CI on GitHub Actions, without modifying or
-removing any lines of the original code.
+removing any lines in the original code.
 
 > **Warning**\
 > You may not ask someone for help or refer any forks of this repository.
