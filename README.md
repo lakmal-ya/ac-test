@@ -3,7 +3,7 @@
 ## Problem
 
 Make changes on the project to pass CI on GitHub Actions, without modifying or
-removing any lines of code.
+removing any lines of the original code.
 
 > **Warning**\
 > You may not ask someone for help or refer any forks of this repository.
@@ -29,7 +29,7 @@ Send a pull-request to this repository.
 Application:
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
-- Runtime: [Deno](https://deno.land/)
+- Runtime: [Deno](https://deno.land/) (latest)
 - Framework: [Fresh](https://fresh.deno.dev/)
 
 DevOps:
@@ -40,6 +40,12 @@ DevOps:
 
 **You are not expected to be experienced with all of these**, but expected to be
 able to learn them quickly by yourself if needed.
+
+### Run the app locally
+
+```sh
+$ deno task dev
+```
 
 ## License
 
