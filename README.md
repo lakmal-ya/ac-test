@@ -6,7 +6,7 @@ Make changes on the project to pass CI on GitHub Actions, without modifying or
 removing any lines in the original code.
 
 > **Warning**\
-> You may not ask someone for help or refer any forks of this repository.
+> You may not refer any other forks or pull-requests of this repository.
 
 > **Note**\
 > Expected time required: 20-60 min\
