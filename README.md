@@ -6,7 +6,8 @@ Make changes on the project to pass CI on GitHub Actions, without modifying or
 removing any lines in the original code.
 
 > **Warning**\
-> You may not refer any other forks or pull-requests of this repository, or ask someone for help.
+> You may not refer any other forks or pull-requests of this repository, or ask
+> someone for help.
 
 > **Note**\
 > Expected time required: 20-60 min\
@@ -51,5 +52,5 @@ $ deno task dev
 
 This repository is licensed under the [PolyForm-Shield](LICENSE.md) License.
 
-You may not distribute copies of the repository to help plagiarism, which is
-regarded as competition with the licenser.
+You may not distribute copies of the repository for the purpose of helping
+plagiarism, which is regarded as competition with the licenser.
