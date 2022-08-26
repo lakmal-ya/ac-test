@@ -17,6 +17,8 @@ removing any lines in the original code.
 
 Send a pull-request to this repository.
 
+Feel free to submit an incompleted work and ask questions there.
+
 > **Warning**\
 > Plagiarism is strictly prohibited and carefully checked.
 
